@@ -5,10 +5,14 @@
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif;
 }
-section{
-    text-align: center;
-    margin-top: 50px;
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
 }
+
 input{
     padding: 5px;
 }
